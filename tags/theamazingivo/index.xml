@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theamazingivo on The Great Ivo Bolg</title>
+    <link>http://localhost:1313/TheGreatIvoBolg/tags/theamazingivo/</link>
+    <description>Recent content in Theamazingivo on The Great Ivo Bolg</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/TheGreatIvoBolg/tags/theamazingivo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quiz: How well do you know Ivo?</title>
+      <link>http://localhost:1313/TheGreatIvoBolg/2025/quiz/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/TheGreatIvoBolg/2025/quiz/</guid>
+      <description>&lt;p&gt;This is somewhat a remake of a post made in the now non-existent &lt;strong&gt;The Great Ivo Blog&lt;/strong&gt;&amp;hellip;&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-quiz&#34;&gt;The Quiz&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ivo&lt;/strong&gt; is a funny guy. How well do you think you know him? Take this quiz and find out! Each correct answer awards you one (1) point, each incorrect answer awards you zero (0). No cheating allowed! &lt;em&gt;I will know.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;question-1&#34;&gt;Question 1&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;What is &lt;em&gt;Ivo&lt;/em&gt;&amp;rsquo;s favorite animal?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Option 1:&lt;/strong&gt; Turtle&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Option 2:&lt;/strong&gt; Chimpanzee&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Option 3:&lt;/strong&gt; Cat&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Option 4:&lt;/strong&gt; Funny monke&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;button onclick=&#34;this.nextElementSibling.style.display=&#39;block&#39;&#34;&gt;&#xA;Answer&#xA;&lt;/button&gt;&#xA;&lt;div style=&#34;display:none; margin-top:0.5em;&#34;&gt;&#xA;Funny monke. If you guessed chimpanzee, leave. I don&#39;t want you in this bolg.&#xA;&lt;/div&gt;&#xA;&lt;h3 id=&#34;question-number-2&#34;&gt;Question number 2&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Which Bachelors course does Ivo major in?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
